@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<thirdPartyCredentialsHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <externalSystem>
+        <a:uuid>89cd81ad-8162-4a37-9c0f-35faa604d468</a:uuid>
+        <a:name>mail-poller</a:name>
+        <a:description>to configure imap mail poller plug in</a:description>
+        <a:key>mail-poller</a:key>
+        <a:attribute>
+            <a:key>username</a:key>
+            <a:name>username</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:attribute>
+            <a:key>password</a:key>
+            <a:name>password</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:showPerUser>false</a:showPerUser>
+        <a:allowedPlugin>mail</a:allowedPlugin>
+    </externalSystem>
+</thirdPartyCredentialsHaul>

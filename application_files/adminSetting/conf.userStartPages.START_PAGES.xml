@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<administeredSettingHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <uuid>conf.userStartPages.START_PAGES</uuid>
+    <isDefault>false</isDefault>
+    <urlConfigs>
+        <urlConfig>
+            <url>/sites/smart-data-signals</url>
+            <groups>
+                <group a:uuid="_e-0000e7ca-a3dc-8000-9b0c-01075c01075c_788"/>
+            </groups>
+        </urlConfig>
+        <urlConfig>
+            <url>/sites/contract-renewal</url>
+            <groups>
+                <group a:uuid="_e-0000e673-03c0-8000-9af8-01075c01075c_329"/>
+            </groups>
+        </urlConfig>
+        <urlConfig>
+            <url>/sites/smartaudit-ai</url>
+            <groups>
+                <group a:uuid="_e-0000e673-03c0-8000-9af8-01075c01075c_308"/>
+                <group a:uuid="_e-0000e673-03c0-8000-9af8-01075c01075c_306"/>
+            </groups>
+        </urlConfig>
+    </urlConfigs>
+</administeredSettingHaul>

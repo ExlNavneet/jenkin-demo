@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<thirdPartyCredentialsHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <externalSystem>
+        <a:uuid>8b49ba09-78d5-4c04-a62f-80fee6bdc10a</a:uuid>
+        <a:name>SFTP Test Connection</a:name>
+        <a:description>Credentials for connecting to SFTP server.</a:description>
+        <a:key>sftp.test.connection</a:key>
+        <a:attribute>
+            <a:key>username</a:key>
+            <a:name>username</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:attribute>
+            <a:key>password</a:key>
+            <a:name>password</a:name>
+            <a:showValueOnUi>false</a:showValueOnUi>
+        </a:attribute>
+        <a:showPerUser>false</a:showPerUser>
+        <a:allowedPlugin>com.appiancorp.a2.process.runtime.activities.sftp</a:allowedPlugin>
+    </externalSystem>
+</thirdPartyCredentialsHaul>

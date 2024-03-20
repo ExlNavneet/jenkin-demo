@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<thirdPartyCredentialsHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <externalSystem>
+        <a:uuid>0ebf2afd-6598-49da-becd-f6b33eae0336</a:uuid>
+        <a:name>JWT Connection</a:name>
+        <a:description>External System Key for JWT Connection - To Generate Tokens</a:description>
+        <a:key>jwt.connection</a:key>
+        <a:attribute>
+            <a:key>appianprivatekey</a:key>
+            <a:name>appianPrivateKey</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:attribute>
+            <a:key>appianprivatekeypassword</a:key>
+            <a:name>appianprivatekeypassword</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:showPerUser>false</a:showPerUser>
+        <a:allowedPlugin>jwtTools</a:allowedPlugin>
+    </externalSystem>
+</thirdPartyCredentialsHaul>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<administeredSettingHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <uuid>conf.branding.SYSTEM_BRANDING</uuid>
+    <isDefault>false</isDefault>
+    <systemBranding>
+        <navigationBarColor>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">#fb4e0b</value>
+        </navigationBarColor>
+        <navigationHighlightColor>
+            <isDefault>true</isDefault>
+        </navigationHighlightColor>
+        <navigationLabelsColor>
+            <isDefault>true</isDefault>
+        </navigationLabelsColor>
+        <filterGroupTitleColor>
+            <isDefault>true</isDefault>
+        </filterGroupTitleColor>
+        <tempoAccentColor>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">#fb4e0b</value>
+        </tempoAccentColor>
+        <siteName>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">EXL Appian Demo</value>
+        </siteName>
+        <wallpaperColor>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">#ffffff</value>
+        </wallpaperColor>
+        <emailHeaderColor>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">#fb4e0b</value>
+        </emailHeaderColor>
+        <emailAccentColor>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">#fb4e0b</value>
+        </emailAccentColor>
+        <logoSource>
+            <isDefault>true</isDefault>
+        </logoSource>
+        <logoUrl>
+            <isDefault>true</isDefault>
+        </logoUrl>
+        <logoAltText>
+            <isDefault>true</isDefault>
+        </logoAltText>
+        <secondaryLogoSource>
+            <isDefault>true</isDefault>
+        </secondaryLogoSource>
+        <secondaryLogoUrl>
+            <isDefault>true</isDefault>
+        </secondaryLogoUrl>
+        <faviconSource>
+            <isDefault>true</isDefault>
+        </faviconSource>
+        <faviconUrl>
+            <isDefault>true</isDefault>
+        </faviconUrl>
+        <bannerColor>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">#575657</value>
+        </bannerColor>
+        <bannerTextColor>
+            <isDefault>true</isDefault>
+        </bannerTextColor>
+        <bannerMessage>
+            <isDefault>true</isDefault>
+        </bannerMessage>
+        <loadingBarColor>
+            <isDefault>true</isDefault>
+        </loadingBarColor>
+    </systemBranding>
+</administeredSettingHaul>

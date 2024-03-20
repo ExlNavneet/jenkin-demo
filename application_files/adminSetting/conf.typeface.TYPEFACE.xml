@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<administeredSettingHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <uuid>conf.typeface.TYPEFACE</uuid>
+    <isDefault>false</isDefault>
+    <typeface>
+        <fontFaceConfigs>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">{"Poppins":{"configs":[{"groupName":"","woff2":{"300":"https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2","400":"https://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfecg.woff2","600":"https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2","700":"https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2"},"woff":{"300":"","400":"","600":"","700":""},"opentype":{"300":"","400":"","600":"","700":""},"opentypeItalic":{"300":"","400":"","600":"","700":""}}],"active":true}}</value>
+        </fontFaceConfigs>
+    </typeface>
+</administeredSettingHaul>

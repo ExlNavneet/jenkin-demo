@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataSourceHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <dataSourceInfo>
+        <uuid>2302952a-5c63-4717-b8b2-15d12d9f58bc</uuid>
+        <name>jdbc/mysql</name>
+        <type>MySQL</type>
+        <connectionString>jdbc:mysql://192.168.39.250:3306/Xtrakto_Master_DB</connectionString>
+    </dataSourceInfo>
+</dataSourceHaul>

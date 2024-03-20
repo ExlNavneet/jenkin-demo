@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<thirdPartyCredentialsHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <externalSystem>
+        <a:uuid>f4ea41cc-09e5-4a42-9d85-d15b05785f57</a:uuid>
+        <a:name>msgmailpoller</a:name>
+        <a:description>Container for the secure details to connect to Azure platform for getting OAuth authentication</a:description>
+        <a:key>msgmailpoller</a:key>
+        <a:attribute>
+            <a:key>secret</a:key>
+            <a:name>secret</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:attribute>
+            <a:key>tenant</a:key>
+            <a:name>tenant</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:attribute>
+            <a:key>applicationid</a:key>
+            <a:name>applicationID</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:showPerUser>false</a:showPerUser>
+        <a:allowedPlugin>msgraphmailpoller</a:allowedPlugin>
+    </externalSystem>
+</thirdPartyCredentialsHaul>

@@ -1,17 +1,17 @@
 Success (1):
-content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 "JA_Test15"
+content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 "JA_Test16"
 
 Referenced precedents that were not exported (1):
 content 38117 8f2718fa-a931-4f03-9491-6e0a528e3c36
 
 Trace:
-2024-03-21 14:37:58.451 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Begin transport.
-2024-03-21 14:37:58.451 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Retrieving object data.
-2024-03-21 14:37:58.486 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Setting uuids of object references.
-2024-03-21 14:37:58.486 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Processing reference: [Content:id=38407,versionId=-1,name=JA_Test15,type=32,subtype=1,uuid=_a-0000eb9e-312c-8000-9bf9-011c48011c48_746438,parent=38117]
-2024-03-21 14:37:58.486 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Processing reference: FreeformRule.forum
-2024-03-21 14:37:58.486 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Processing reference: FreeformRule.parent
-2024-03-21 14:37:58.492 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Processing reference: com.appiancorp.suiteapi.content.ContentRoleMap@55e36791[
+2024-03-21 16:07:03.385 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Begin transport.
+2024-03-21 16:07:03.385 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Retrieving object data.
+2024-03-21 16:07:03.405 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Setting uuids of object references.
+2024-03-21 16:07:03.405 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Processing reference: [Content:id=38415,versionId=-1,name=JA_Test16,type=32,subtype=1,uuid=_a-0000eb9e-312c-8000-9bf9-011c48011c48_746508,parent=38117]
+2024-03-21 16:07:03.406 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Processing reference: FreeformRule.forum
+2024-03-21 16:07:03.406 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Processing reference: FreeformRule.parent
+2024-03-21 16:07:03.41 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Processing reference: com.appiancorp.suiteapi.content.ContentRoleMap@2a17877a[
   ContentRole[name=readers,inherit=true,allowForAll=false]
   ContentRole[name=authors,inherit=true,allowForAll=false]
   ContentRole[name=administrators,inherit=true,allowForAll=false]
@@ -20,12 +20,12 @@ Trace:
   ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
   securityVector=15:SEC_PUBLIC=true,SEC_CREATOR_ADMIN=false,SEC_INH_ADMIN=true,SEC_INH_EDITOR=true,SEC_INH_VIEWER=true,SEC_ALL_ADMIN=false,SEC_ALL_EDITOR=false,SEC_ALL_VIEWER=false
 ]
-2024-03-21 14:37:58.492 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Processing reference: ContentRole[name=readers,inherit=true,allowForAll=false]
-2024-03-21 14:37:58.492 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Processing reference: ContentRole[name=authors,inherit=true,allowForAll=false]
-2024-03-21 14:37:58.492 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Processing reference: ContentRole[name=administrators,inherit=true,allowForAll=false]
-2024-03-21 14:37:58.492 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Processing reference: ContentRole[name=denyReaders,inherit=false,allowForAll=false]
-2024-03-21 14:37:58.492 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Processing reference: ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
-2024-03-21 14:37:58.492 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Processing reference: ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
-2024-03-21 14:37:58.493 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Exporting binary resources.
-2024-03-21 14:37:58.493 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Serializing object to XML.
-2024-03-21 14:37:58.495 DEBUG content 38408 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746438 Object transported.
+2024-03-21 16:07:03.41 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Processing reference: ContentRole[name=readers,inherit=true,allowForAll=false]
+2024-03-21 16:07:03.41 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Processing reference: ContentRole[name=authors,inherit=true,allowForAll=false]
+2024-03-21 16:07:03.41 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Processing reference: ContentRole[name=administrators,inherit=true,allowForAll=false]
+2024-03-21 16:07:03.41 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Processing reference: ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+2024-03-21 16:07:03.41 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Processing reference: ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+2024-03-21 16:07:03.41 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Processing reference: ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+2024-03-21 16:07:03.41 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Exporting binary resources.
+2024-03-21 16:07:03.41 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Serializing object to XML.
+2024-03-21 16:07:03.412 DEBUG content 38416 _a-0000eb9e-312c-8000-9bf9-011c48011c48_746508 Object transported.

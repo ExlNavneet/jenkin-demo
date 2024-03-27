@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_746858</versionUuid>
+    <versionUuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_746919</versionUuid>
     <constant>
         <name>JA_BOOLEAN</name>
         <uuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_746854</uuid>
-        <description>Testing Import Customization file</description>
+        <description>Testing Import Customization file again</description>
         <parentUuid>8f2718fa-a931-4f03-9491-6e0a528e3c36</parentUuid>
         <visibility>
             <advertise>false</advertise>
@@ -51,5 +51,6 @@
     </roleMap>
     <history>
         <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_746858"/>
+        <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_746919"/>
     </history>
 </contentHaul>

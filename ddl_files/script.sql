@@ -1,1 +1,1 @@
-INSERT INTO `JENKINS_AD` (`id`, `name`, `empId`) VALUES (NULL, 'nattt', '90123456');
+INSERT INTO `JENKINS_AD` (`id`, `name`, `empId`) VALUES (NULL, 'naxxx', '90123456');

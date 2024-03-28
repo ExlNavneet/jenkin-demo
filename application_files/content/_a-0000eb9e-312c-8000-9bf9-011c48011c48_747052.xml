@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_747064</versionUuid>
-    <rule>
-        <name>JA_Test16</name>
-        <uuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_746508</uuid>
-        <description>Test 16</description>
+    <versionUuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_747056</versionUuid>
+    <constant>
+        <name>JA_ENV_SPE</name>
+        <uuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_747052</uuid>
+        <description>Environmental variables</description>
         <parentUuid>8f2718fa-a931-4f03-9491-6e0a528e3c36</parentUuid>
         <visibility>
             <advertise>false</advertise>
@@ -15,10 +15,14 @@
             <system>false</system>
             <unlogged>false</unlogged>
         </visibility>
-        <definition>"Change in Test 16"</definition>
-        <preferredEditor>legacy</preferredEditor>
-        <offlineEnabled>false</offlineEnabled>
-    </rule>
+        <typedValue>
+            <type>
+                <name>int</name>
+                <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+            </type>
+        </typedValue>
+        <isEnvironmentSpecific>true</isEnvironmentSpecific>
+    </constant>
     <roleMap public="true">
         <role inherit="true" allowForAll="false" name="readers">
             <users/>
@@ -46,7 +50,6 @@
         </role>
     </roleMap>
     <history>
-        <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_746519"/>
-        <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_747064"/>
+        <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_747056"/>
     </history>
 </contentHaul>

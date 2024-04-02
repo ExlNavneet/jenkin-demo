@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_747396</versionUuid>
-    <rule>
-        <name>JA_Test15</name>
-        <uuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_746438</uuid>
-        <description>Test 15</description>
+    <versionUuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_747385</versionUuid>
+    <constant>
+        <name>JA_ENV_NUMBER</name>
+        <uuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_747381</uuid>
+        <description>Customization file</description>
         <parentUuid>8f2718fa-a931-4f03-9491-6e0a528e3c36</parentUuid>
         <visibility>
             <advertise>false</advertise>
@@ -15,14 +15,14 @@
             <system>false</system>
             <unlogged>false</unlogged>
         </visibility>
-        <definition>"Test 15"
-"Rollback 1"
-"Rollback 2"
-"Rollback 3"
-"Rollback 4"</definition>
-        <preferredEditor>legacy</preferredEditor>
-        <offlineEnabled>false</offlineEnabled>
-    </rule>
+        <typedValue>
+            <type>
+                <name>int</name>
+                <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+            </type>
+        </typedValue>
+        <isEnvironmentSpecific>true</isEnvironmentSpecific>
+    </constant>
     <roleMap public="true">
         <role inherit="true" allowForAll="false" name="readers">
             <users/>
@@ -50,10 +50,6 @@
         </role>
     </roleMap>
     <history>
-        <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_746449"/>
-        <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_747264"/>
-        <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_747305"/>
-        <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_747347"/>
-        <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_747396"/>
+        <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_747385"/>
     </history>
 </contentHaul>

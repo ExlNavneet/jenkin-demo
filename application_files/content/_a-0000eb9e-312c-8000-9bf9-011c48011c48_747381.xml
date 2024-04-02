@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_747385</versionUuid>
+    <versionUuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_747441</versionUuid>
     <constant>
         <name>JA_ENV_NUMBER</name>
         <uuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_747381</uuid>
@@ -51,5 +51,6 @@
     </roleMap>
     <history>
         <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_747385"/>
+        <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_747441"/>
     </history>
 </contentHaul>

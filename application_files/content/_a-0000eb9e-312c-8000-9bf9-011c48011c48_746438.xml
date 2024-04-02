@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_747305</versionUuid>
+    <versionUuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_747347</versionUuid>
     <rule>
         <name>JA_Test15</name>
         <uuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_746438</uuid>
@@ -17,7 +17,8 @@
         </visibility>
         <definition>"Test 15"
 "Rollback 1"
-"Rollback 2"</definition>
+"Rollback 2"
+"Rollback 3"</definition>
         <preferredEditor>legacy</preferredEditor>
         <offlineEnabled>false</offlineEnabled>
     </rule>
@@ -51,5 +52,6 @@
         <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_746449"/>
         <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_747264"/>
         <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_747305"/>
+        <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_747347"/>
     </history>
 </contentHaul>

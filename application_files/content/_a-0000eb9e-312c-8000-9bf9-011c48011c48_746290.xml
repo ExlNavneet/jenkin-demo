@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000ebcc-38db-8000-9bfd-011c48011c48_750360</versionUuid>
+    <versionUuid>_a-0000ebcc-38db-8000-9bfd-011c48011c48_750401</versionUuid>
     <rule>
         <name>JA_Test12</name>
         <uuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_746290</uuid>
@@ -16,7 +16,8 @@
             <unlogged>false</unlogged>
         </visibility>
         <definition>"Test 12"
-"Modification"</definition>
+"Modification"
+"Modification 2"</definition>
         <preferredEditor>legacy</preferredEditor>
         <offlineEnabled>false</offlineEnabled>
     </rule>
@@ -49,5 +50,6 @@
     <history>
         <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_746301"/>
         <historyInfo versionUuid="_a-0000ebcc-38db-8000-9bfd-011c48011c48_750360"/>
+        <historyInfo versionUuid="_a-0000ebcc-38db-8000-9bfd-011c48011c48_750401"/>
     </history>
 </contentHaul>

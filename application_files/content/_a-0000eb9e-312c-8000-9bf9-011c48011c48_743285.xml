@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000ebcc-38db-8000-9bfd-011c48011c48_753631</versionUuid>
+    <versionUuid>_a-0000ebcc-38db-8000-9bfd-011c48011c48_753683</versionUuid>
     <rule>
         <name>JA_Test1</name>
         <uuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_743285</uuid>
@@ -17,7 +17,8 @@
         </visibility>
         <definition>"Test"
 "Check The email"
-"Check correct build number"</definition>
+"Check correct build number"
+"Once again check build number"</definition>
         <preferredEditor>legacy</preferredEditor>
         <offlineEnabled>false</offlineEnabled>
     </rule>
@@ -51,5 +52,6 @@
         <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_743296"/>
         <historyInfo versionUuid="_a-0000ebcc-38db-8000-9bfd-011c48011c48_753580"/>
         <historyInfo versionUuid="_a-0000ebcc-38db-8000-9bfd-011c48011c48_753631"/>
+        <historyInfo versionUuid="_a-0000ebcc-38db-8000-9bfd-011c48011c48_753683"/>
     </history>
 </contentHaul>

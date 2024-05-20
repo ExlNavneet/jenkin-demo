@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000ebcc-38db-8000-9bfd-011c48011c48_755612</versionUuid>
+    <versionUuid>_a-0000ebcc-38db-8000-9bfd-011c48011c48_755732</versionUuid>
     <rule>
         <name>JA_Test22</name>
         <uuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_747501</uuid>
@@ -18,7 +18,8 @@
         <definition>"Test 22"
 "Rollback 1 and Rollback 3 for Test 24"
 "17 April"
-"Version 1"</definition>
+"Version 1"
+"Demo Deployment"</definition>
         <preferredEditor>legacy</preferredEditor>
         <offlineEnabled>false</offlineEnabled>
     </rule>
@@ -52,5 +53,6 @@
         <historyInfo versionUuid="_a-0000eb9e-312c-8000-9bf9-011c48011c48_747512"/>
         <historyInfo versionUuid="_a-0000ebcc-38db-8000-9bfd-011c48011c48_751778"/>
         <historyInfo versionUuid="_a-0000ebcc-38db-8000-9bfd-011c48011c48_755612"/>
+        <historyInfo versionUuid="_a-0000ebcc-38db-8000-9bfd-011c48011c48_755732"/>
     </history>
 </contentHaul>

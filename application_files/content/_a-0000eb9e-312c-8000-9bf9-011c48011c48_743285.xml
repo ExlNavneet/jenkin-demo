@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000ebcc-38db-8000-9bfd-011c48011c48_753683</versionUuid>
+    <versionUuid>_a-0000ebcc-38db-8000-9bfd-011c48011c48_755623</versionUuid>
     <rule>
         <name>JA_Test1</name>
         <uuid>_a-0000eb9e-312c-8000-9bf9-011c48011c48_743285</uuid>
@@ -18,7 +18,14 @@
         <definition>"Test"
 "Check The email"
 "Check correct build number"
-"Once again check build number"</definition>
+"Once again check build number"
+"Version 1"
+/*@echo off*/
+/*set Path="C:\ProgramData\Jenkins\.jenkins\workspace\ApplicationTest"*/
+/*for /f "tokens=*" %%a in ('dir /A:-D /B /O:-D /S %Path%') do set NEW=%%a&amp;&amp; goto:n */
+/*:n*/
+/*type %NEW%*/
+/*copy %NEW% "C:\Users\Navneet177863\Documents\Jenkins My App\backp\outputApplicationXML.xml"*/</definition>
         <preferredEditor>legacy</preferredEditor>
         <offlineEnabled>false</offlineEnabled>
     </rule>
@@ -53,5 +60,6 @@
         <historyInfo versionUuid="_a-0000ebcc-38db-8000-9bfd-011c48011c48_753580"/>
         <historyInfo versionUuid="_a-0000ebcc-38db-8000-9bfd-011c48011c48_753631"/>
         <historyInfo versionUuid="_a-0000ebcc-38db-8000-9bfd-011c48011c48_753683"/>
+        <historyInfo versionUuid="_a-0000ebcc-38db-8000-9bfd-011c48011c48_755623"/>
     </history>
 </contentHaul>
